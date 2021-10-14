@@ -1,0 +1,62 @@
+[
+  {
+    "abbrev": "POS0",
+    "active": true,
+    "display": false,
+    "displayOrder": 0,
+    "id": 0,
+    "name": "POS0",
+    "parentId": 0,
+    "statCategoryId": 0
+  },
+  {
+    "abbrev": "PG",
+    "active": true,
+    "display": true,
+    "displayOrder": 1,
+    "id": 1,
+    "name": "Point Guard",
+    "parentId": 0,
+    "statCategoryId": 0
+  },
+  {
+    "abbrev": "SG",
+    "active": true,
+    "display": true,
+    "displayOrder": 2,
+    "id": 2,
+    "name": "Shooting Guard",
+    "parentId": 0,
+    "statCategoryId": 0
+  },
+  {
+    "abbrev": "SF",
+    "active": true,
+    "display": true,
+    "displayOrder": 3,
+    "id": 3,
+    "name": "Small Forward",
+    "parentId": 0,
+    "statCategoryId": 0
+  },
+  {
+    "abbrev": "PF",
+    "active": true,
+    "display": true,
+    "displayOrder": 4,
+    "id": 4,
+    "name": "Power Forward",
+    "parentId": 0,
+    "statCategoryId": 0
+  },
+  {
+    "abbrev": "C",
+    "active": true,
+    "display": true,
+    "displayOrder": 5,
+    "id": 5,
+    "name": "Center",
+    "parentId": 0,
+    "statCategoryId": 0
+  }
+]
